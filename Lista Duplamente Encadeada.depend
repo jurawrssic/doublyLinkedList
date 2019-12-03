@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1495398314 source:c:\users\julia\downloads\lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1495398386 source:c:\users\julia\downloads\lista duplamente encadeada\linkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	"linkedList.h"
+
+1495395286 c:\users\julia\downloads\lista duplamente encadeada\linkedlist.h
+
+1495398314 source:c:\users\julia\facul 2k17\aed\lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1495395286 c:\users\julia\facul 2k17\aed\lista duplamente encadeada\linkedlist.h
+
+1495404724 source:c:\users\julia\facul 2k17\aed\lista duplamente encadeada\linkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	"linkedList.h"
+
